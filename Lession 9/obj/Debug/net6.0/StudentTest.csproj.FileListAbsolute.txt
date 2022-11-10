@@ -1,0 +1,12 @@
+E:\52000759_TranGiaHoang\Lession 9\Lession 9\bin\Debug\net6.0\StudentTest.deps.json
+E:\52000759_TranGiaHoang\Lession 9\Lession 9\bin\Debug\net6.0\StudentTest.dll
+E:\52000759_TranGiaHoang\Lession 9\Lession 9\bin\Debug\net6.0\StudentTest.pdb
+E:\52000759_TranGiaHoang\Lession 9\Lession 9\obj\Debug\net6.0\StudentTest.csproj.AssemblyReference.cache
+E:\52000759_TranGiaHoang\Lession 9\Lession 9\obj\Debug\net6.0\StudentTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\52000759_TranGiaHoang\Lession 9\Lession 9\obj\Debug\net6.0\StudentTest.AssemblyInfoInputs.cache
+E:\52000759_TranGiaHoang\Lession 9\Lession 9\obj\Debug\net6.0\StudentTest.AssemblyInfo.cs
+E:\52000759_TranGiaHoang\Lession 9\Lession 9\obj\Debug\net6.0\StudentTest.csproj.CoreCompileInputs.cache
+E:\52000759_TranGiaHoang\Lession 9\Lession 9\obj\Debug\net6.0\StudentTest.dll
+E:\52000759_TranGiaHoang\Lession 9\Lession 9\obj\Debug\net6.0\refint\StudentTest.dll
+E:\52000759_TranGiaHoang\Lession 9\Lession 9\obj\Debug\net6.0\StudentTest.pdb
+E:\52000759_TranGiaHoang\Lession 9\Lession 9\obj\Debug\net6.0\ref\StudentTest.dll
